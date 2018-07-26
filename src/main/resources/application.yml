@@ -7,4 +7,4 @@ spring:
     config:
       server:
         native:
-          searchLocations: file:///Users/edgar/Documents/own/spring/configuration-server/src/main/resources/config/licensing-service
+          searchLocations: file:///Users/edgar/Documents/own/spring/configuration-server/src/main/resources/config/licensing-service, file:///Users/edgar/Documents/own/spring/configuration-server/src/main/resources/config/organization-service
