@@ -29,3 +29,5 @@ mvnw
 mvnw.cmd
 configurationserver.iml
 licensing-service.iml
+
+.DS_Store
