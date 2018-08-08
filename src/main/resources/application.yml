@@ -7,4 +7,5 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/edgarSucre/configuration-repository
+          #uri: https://github.com/edgarSucre/configuration-repository
+          uri: https://github.com/edgarSucre/configuration-server
